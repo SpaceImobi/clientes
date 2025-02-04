@@ -1,0 +1,80 @@
+{
+  "lightColors": {
+    "primary": 4283215696,
+    "onPrimary": 4294967295,
+    "primaryContainer": 4286141828,
+    "onPrimaryContainer": 4294967295,
+    "secondary": 4278208756,
+    "onSecondary": 4294967295,
+    "secondaryContainer": 4282434629,
+    "onSecondaryContainer": 4294967295,
+    "tertiary": 4284900966,
+    "onTertiary": 4294967295,
+    "tertiaryContainer": 4286141828,
+    "onTertiaryContainer": 4294967295,
+    "error": 4290386229,
+    "onError": 4294967295,
+    "errorContainer": 4292621311,
+    "onErrorContainer": 4294967295,
+    "surface": 4294967295,
+    "onSurface": 4280427042,
+    "surfaceContainerHighest": 4293717228,
+    "onSurfaceVariant": 4282434629,
+    "outline": 4284900966,
+    "outlineVariant": 4286141828,
+    "shadow": 4278190080,
+    "scrim": 4278190080,
+    "inverseSurface": 4280427042,
+    "onInverseSurface": 4294967295,
+    "inversePrimary": 4283215696
+  },
+  "darkColors": {
+    "primary": 4283215696,
+    "onPrimary": 4294967295,
+    "primaryContainer": 4281085520,
+    "onPrimaryContainer": 4294967295,
+    "secondary": 4278208756,
+    "onSecondary": 4294967295,
+    "secondaryContainer": 4280427042,
+    "onSecondaryContainer": 4294967295,
+    "tertiary": 4291348680,
+    "onTertiary": 4280427042,
+    "tertiaryContainer": 4284900966,
+    "onTertiaryContainer": 4291348680,
+    "error": 4290386229,
+    "onError": 4294967295,
+    "errorContainer": 4292621311,
+    "onErrorContainer": 4294967295,
+    "surface": 4279374354,
+    "onSurface": 4291348680,
+    "surfaceContainerHighest": 4282434629,
+    "onSurfaceVariant": 4291348680,
+    "outline": 4284900966,
+    "outlineVariant": 4284900966,
+    "shadow": 4278190080,
+    "scrim": 4278190080,
+    "inverseSurface": 4291348680,
+    "onInverseSurface": 4279374354,
+    "inversePrimary": 4281085520
+  },
+  "typography": {
+    "fontFamily": {
+      "heading": "Raleway",
+      "body": "Inter"
+    },
+    "sizes": {
+      "h1": 32.0,
+      "h2": 28.0,
+      "h3": 24.0,
+      "subtitle": 20.0,
+      "body": 16.0,
+      "small": 14.0
+    }
+  },
+  "spacing": {
+    "small": 8.0,
+    "medium": 16.0,
+    "large": 24.0,
+    "xlarge": 32.0
+  }
+} 
