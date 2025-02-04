@@ -1,7 +1,7 @@
 {
     "name": "Space Imobi",
     "short_name": "Space Imobi",
-    "version": "1.0.9",
+    "version": "1.0.10",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
